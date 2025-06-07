@@ -49,7 +49,7 @@ while i<4:
     else:
         print("Askerlik icin buyumen gerekli")
 
-    print(i, "sayac calisiyor gibi")
+    print(i, "dongu calisiyor gibi")
 
     if i==2:
         print ("bu da bonus araya if sokalim")
