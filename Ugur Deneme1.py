@@ -70,6 +70,10 @@ sayi_2=input("sana zahmet bir tane daha  ")
 islem=str(input("Bu iki sayiya toplama,cikarma,bolme veya carpma islemlerinden hangisini uygulayalim ?"   ))
 
 
+'''
+Bu kismi konusalim, validasyonu temiz yapabilirdin!
+'''
+
 if  islem !="+" and islem !="-" and islem !="*" and islem !="/": 
     print("hayir sembol girmelisin +  -  *  / ")
     sleep(2)
